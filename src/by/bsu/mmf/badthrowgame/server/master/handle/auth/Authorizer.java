@@ -1,7 +1,7 @@
 package by.bsu.mmf.badthrowgame.server.master.handle.auth;
 
-import by.bsu.mmf.badthrowgame.dao.DAOFactory;
-import by.bsu.mmf.badthrowgame.dao.ServerDAO;
+import by.bsu.mmf.badthrowgame.server.dao.DAOFactory;
+import by.bsu.mmf.badthrowgame.server.dao.ServerDAO;
 import by.bsu.mmf.badthrowgame.enums.AccountAction;
 import by.bsu.mmf.badthrowgame.enums.AccountSuccess;
 import by.bsu.mmf.badthrowgame.server.Server;

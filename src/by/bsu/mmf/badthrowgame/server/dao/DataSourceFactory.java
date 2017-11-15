@@ -1,4 +1,4 @@
-package by.bsu.mmf.badthrowgame.dao;
+package by.bsu.mmf.badthrowgame.server.dao;
 
 import com.mysql.cj.jdbc.MysqlDataSource;
 

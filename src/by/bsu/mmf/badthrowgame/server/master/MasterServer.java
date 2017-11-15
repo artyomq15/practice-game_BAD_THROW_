@@ -1,6 +1,6 @@
 package by.bsu.mmf.badthrowgame.server.master;
 
-import by.bsu.mmf.badthrowgame.dao.DAOFactory;
+import by.bsu.mmf.badthrowgame.server.dao.DAOFactory;
 import by.bsu.mmf.badthrowgame.enums.ResponsePlayerAction;
 import by.bsu.mmf.badthrowgame.server.Server;
 import by.bsu.mmf.badthrowgame.server.master.handle.MasterHandler;

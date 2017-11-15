@@ -1,4 +1,4 @@
-package by.bsu.mmf.badthrowgame.dao;
+package by.bsu.mmf.badthrowgame.server.dao;
 
 import by.bsu.mmf.badthrowgame.enums.AccountSuccess;
 import by.bsu.mmf.badthrowgame.player.Player;

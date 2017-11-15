@@ -1,7 +1,7 @@
-package by.bsu.mmf.badthrowgame.dao;
+package by.bsu.mmf.badthrowgame.server.dao;
 
 
-import by.bsu.mmf.badthrowgame.dao.impl.ServerDAOImpl;
+import by.bsu.mmf.badthrowgame.server.dao.impl.ServerDAOImpl;
 
 public class DAOFactory {
     private static final DAOFactory instance = new DAOFactory();

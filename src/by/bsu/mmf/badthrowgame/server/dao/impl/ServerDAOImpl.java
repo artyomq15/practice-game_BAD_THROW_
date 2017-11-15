@@ -1,7 +1,7 @@
-package by.bsu.mmf.badthrowgame.dao.impl;
+package by.bsu.mmf.badthrowgame.server.dao.impl;
 
-import by.bsu.mmf.badthrowgame.dao.ServerDAO;
-import by.bsu.mmf.badthrowgame.dao.DataSourceFactory;
+import by.bsu.mmf.badthrowgame.server.dao.ServerDAO;
+import by.bsu.mmf.badthrowgame.server.dao.DataSourceFactory;
 import by.bsu.mmf.badthrowgame.enums.AccountSuccess;
 import by.bsu.mmf.badthrowgame.player.Player;
 import com.mysql.cj.jdbc.MysqlDataSource;

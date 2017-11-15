@@ -27,9 +27,6 @@ public class ClientHandlerGUI extends Thread {
     private ObjectInputStream inStream;
 
 
-    // private ClientHandler clientHandler;
-
-
     private JPanel jpanel;
     private JPanel signInPanel;
     private JTextArea playersList;
